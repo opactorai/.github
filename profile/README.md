@@ -42,12 +42,12 @@ Our AI Agent, **Abiz (Artificial Business) Agent**, never sleeps. When pain poin
 
 ## Our Core Projects
 
-### Clovable
-<a href="https://github.com/opactorai/clovable">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=opactorai&repo=clovable&theme=light" />
+### Claudable
+<a href="https://github.com/opactorai/Claudable">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=opactorai&repo=Claudable&theme=light" />
 </a>
 
-**[clovable](https://github.com/opactorai/clovable)** - AI-Powered Development Platform  
+**[Claudable](https://github.com/opactorai/clovable)** - AI-Powered Development Platform  
 Revolutionary platform that transforms ideas into fully functional applications using advanced AI agents and automated development workflows.
 
 <br clear="right"/>
